@@ -1,9 +1,11 @@
-### Hi there, I'm Arthur!
+### Hi there! 👋
 
-## I'm a husband, a father and a data scientist.
-- I'm a lifelong-learner.
-- I study topics like Python, Scala, Statistics, Machine Learning and Software Engineering.
+I am Arthur Albarelli. People use to call me Albarelli or Alba.
 
-[![Arthur Albarelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralbarelli)](https://github.com/anuraghazra/github-readme-stats)
+### About code and me
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralbarelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am insights guy (AKA data analyst) on my way to becoming a Data Full Stack.
+
+My expertise is Python, but also have some knowledge in Scala.
+
+I 've worked with tools like Pandas, Spark, Power BI and Tableau.
