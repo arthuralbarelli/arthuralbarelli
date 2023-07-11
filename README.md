@@ -9,3 +9,5 @@ I am the insight's guy (AKA data analyst) on my way to becoming a Data Full Stac
 My expertise is Python, but also have some knowledge in Scala.
 
 I've worked with tools like Pandas, Spark, Power BI and Tableau.
+
+Currently I am learning abount Svelte/SvelteKit.
