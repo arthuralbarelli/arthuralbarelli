@@ -11,3 +11,8 @@ My expertise is Python, but also have some knowledge in Scala.
 I've worked with tools like Pandas, Spark, Power BI and Tableau.
 
 Currently I am learning abount Svelte/SvelteKit.
+
+---
+
+You can find more me at the following link:
+* Website: arthuralbarelli.dev
