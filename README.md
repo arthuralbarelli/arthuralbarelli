@@ -15,4 +15,4 @@ Currently I am learning abount Svelte/SvelteKit.
 ---
 
 You can find more me at the following link:
-* Website: arthuralbarelli.dev
+* Website: [arthuralbarelli.dev](https://arthuralbarelli.dev/)
