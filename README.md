@@ -10,7 +10,7 @@ My expertise is Python, but also have some knowledge in Scala.
 
 I've worked with tools like Pandas, Spark, Power BI and Tableau.
 
-Currently I am learning abount Svelte/SvelteKit.
+Currently I am learning about JavaScript and React Native.
 
 ---
 
