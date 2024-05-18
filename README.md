@@ -15,4 +15,4 @@ Currently I am learning about JavaScript and React Native.
 ---
 
 You can find more me at the following link:
-* Website: [arthuralbarelli.dev](https://arthuralbarelli.com/)
+* Website: [arthuralbarelli.com](https://arthuralbarelli.com/)
