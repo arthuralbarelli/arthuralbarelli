@@ -1,18 +1,6 @@
-### Hi there! 👋
-
-I am Arthur Albarelli. People use to call me Albarelli or Alba.
-
-### About code and me
-
-I am the insight's guy (AKA data analyst) on my way to becoming a Data Full Stack.
-
-My expertise is Python, but also have some knowledge in Scala.
-
-I've worked with tools like Pandas, Spark, Power BI and Tableau.
-
-Currently I am learning about JavaScript and React Native.
-
----
-
-You can find more me at the following link:
-* Website: [arthuralbarelli.com](https://arthuralbarelli.com/)
+- 👋 Hi, I'm @arthuralbarelli
+- 👀 I'm interested in data science, programming and process optimization
+- ❓ I'm a Senior Data Analyst @ [Incognia](https://www.incognia.com/)
+- 🚂 Formerly worked as Data Analyst @ [Vale](https://vale.com/pt/), [iFood](https://www.ifood.com.br/) and [Inmetrics](https://inmetrics.com.br/)
+- ✍🏻 Sometimes I write stuff on my [PKM](https://arthuralbarelli.github.io/pkm/) and my [Newsletter](https://arthuralbarelli.substack.com/)
+- Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arthuralbarelli/) and [Twitter](https://x.com/arthuralbarelli)
