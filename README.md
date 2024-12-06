@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @arthuralbarelli
 - 👀 I'm interested in machine learning, programming and process optimization
 - ✍🏻 Sometimes I write stuff on my [PKM](https://arthuralbarelli.github.io/pkm/) and my [Newsletter](https://arthuralbarelli.substack.com/)
-- 🤝 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arthuralbarelli/) and [Twitter](https://x.com/arthuralbarelli)
+- 🤝 Feel free to reach out via [Twitter](https://x.com/arthuralbarelli)
